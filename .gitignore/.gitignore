@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+
+# Dependencies (in case you ever add a package.json)
+node_modules/
+
+# Secrets
+.env
+.env.local
